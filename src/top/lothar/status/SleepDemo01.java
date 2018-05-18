@@ -16,6 +16,7 @@ public class SleepDemo01 {
 		long end = endTime.getTime();
 		
 		while(true){
+			//获取到分钟/秒
 			String time = new SimpleDateFormat("mm:ss").format(endTime);
 			System.out.println(time);
 			//构建下一秒时间
