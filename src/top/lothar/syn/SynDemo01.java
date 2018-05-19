@@ -12,6 +12,7 @@ package top.lothar.syn;
  * 同步方法  在void前加synchronized
  * 
  * 线程安全效率低 
+ * 
  * @author Lothar
  *
  */
